@@ -1,0 +1,18 @@
+.statistic-line {
+    width: 100%;
+    display: block;
+}
+
+.statistic-basic-graph {
+    float: left;
+    width: 50%;
+}
+
+.plot-container {
+    float: left;
+    width: 50%;
+}
+
+.history-heatmap {
+    margin-bottom: 30px;
+}

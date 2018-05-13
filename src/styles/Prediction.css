@@ -1,0 +1,35 @@
+.statistic-line {
+    width: 100%;
+    display: block;
+}
+
+.prediction-heatmap {
+    height: 500px;
+    margin-bottom: 30px;
+}
+
+.map-toggle-button {
+    margin-bottom: 30px;
+    margin-left: 2%;
+}
+
+.form-container {
+    width: 45%;
+    float: left;
+}
+
+.first-container {
+    margin-right: 6%;
+    margin-left: 2%;
+}
+
+.card-container {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.result-card {
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 20px;
+}
